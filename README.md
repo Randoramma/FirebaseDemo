@@ -17,3 +17,6 @@ Setup requires creating a Firebase project. See https://firebase.google.com/ for
 
 ## License
 See [LICENSE](LICENSE)
+=======
+# FirebaseDemo
+Udacity Firebase demo application 'Friendly Chat' 
